@@ -23,7 +23,9 @@ It uses **TF-IDF vectorization** and **cosine similarity** to recommend the **to
 ## 🚀 Deployment Notes (Streamlit)  
 If you want to deploy your own version with the included `.pkl` files:  
 
-- ✅ Set Python version to **3.10** in your Streamlit deployment settings  
-- ✅ Include all dependencies in `requirements.txt`  
+- Set Python version to **3.10** in your Streamlit deployment settings  
+- Include all dependencies in `requirements.txt`
+
+Streamlit link : https://netflix-recommender-system-xrjz76hbdozj8wf5kvkktc.streamlit.app/
 
 
